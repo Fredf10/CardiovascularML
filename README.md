@@ -8,8 +8,8 @@ The project is assembled by both self written code and from examples found on th
 
 TABLE OF CONTENTS
 
-* Chapter 1: Neural networks
-	- Chapter 1.1 Basics of neural networks
+* Chapter 1: Neural Networks
+	- Chapter 1.1 Basics of Neural Networks
 	- Chapter 1.2 Other
 	- Chapter 1.3 Physically Informed Neural Networks
 	- Chapter 1.4 Recurrent Neural Networks
