@@ -8,14 +8,14 @@ The project is assembled by both self written code and from examples found on th
 
 TABLE OF CONTENTS
 
-Chapter 1: Neural networks
-	-Chapter 1.1 Basics of neural networks
-	-Chapter 1.2 Other
-	-Chapter 1.3 Physically Informed Neural Networks
-	-Chapter 1.4 Recurrent Neural Networks
-Chapter 2: Other Machine Learning Methods
-	-Chapter 2.1: Support Vector Machines
-	-Chapter 2.2: Principal Component Analysis
+* Chapter 1: Neural networks
+	- Chapter 1.1 Basics of neural networks
+	- Chapter 1.2 Other
+	- Chapter 1.3 Physically Informed Neural Networks
+	- Chapter 1.4 Recurrent Neural Networks
+*Chapter 2: Other Machine Learning Methods
+	- Chapter 2.1: Support Vector Machines
+	- Chapter 2.2: Principal Component Analysis
 
 ## Getting Started
 
