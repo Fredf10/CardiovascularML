@@ -1,4 +1,4 @@
-# Project Title
+# CardiovascularML
 
 The following project, presented as a collection of JuPyteR notebooks, is titled "Machine Learning and Artificial Intelligence for Application in Cardiovascular Biomechanics" and produced as a final product in the course "KT8315 - PhD Seminar i konstruksjonsteknikk og material" at NTNU (The Norwegian University of Science and technology). The project presents an introduction to neural networks and how to apply them to mathematical models. Then the notebooks moves on to introduce more advanced networks, which are also applied to similar cardiovascular models and problems. Finally, the notebook moves away from neural networks and introduce a few other machine learning techniques which also have applications within cardiovascular biomechanics. 
 
