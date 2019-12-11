@@ -13,7 +13,7 @@ TABLE OF CONTENTS
 	- Chapter 1.2 Other
 	- Chapter 1.3 Physically Informed Neural Networks
 	- Chapter 1.4 Recurrent Neural Networks
-*Chapter 2: Other Machine Learning Methods
+* Chapter 2: Other Machine Learning Methods
 	- Chapter 2.1: Support Vector Machines
 	- Chapter 2.2: Principal Component Analysis
 
